@@ -1,6 +1,6 @@
 ![Android Developer Banner](https://img.shields.io/badge/Android%20Developer-Creating%20Value-green?style=for-the-badge&logo=android)
 
-# 👋 안녕하세요, 효율적인 구조로 더 큰 가치를 만드는 개발자, Seo DongIk입니다  
+# 👋 안녕하세요, 효율적인 구조로 더 큰 가치를 만드는 개발자, SeoDongIk입니다  
 
 ---
 
