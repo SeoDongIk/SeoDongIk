@@ -50,18 +50,22 @@
 ![MVI](https://img.shields.io/badge/MVI-000000?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
 
-### Core Tools  
+### **Core Tools**  
 ![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge)
 ![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge)
+![OkHttp](https://img.shields.io/badge/OkHttp-00695C?style=for-the-badge)
 ![Room](https://img.shields.io/badge/Room-FF5722?style=for-the-badge)
 ![WorkManager](https://img.shields.io/badge/WorkManager-009688?style=for-the-badge)
 ![Coroutines](https://img.shields.io/badge/Coroutines-FF4081?style=for-the-badge)
 ![Flow](https://img.shields.io/badge/Flow-FF4081?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-### Others  
+### **Others**  
 ![Coil](https://img.shields.io/badge/Coil-4285F4?style=for-the-badge)
+![Lottie](https://img.shields.io/badge/Lottie-00B3E6?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
