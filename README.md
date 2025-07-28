@@ -1,10 +1,7 @@
-![Android Developer Banner](https://img.shields.io/badge/Android%20Developer-Creating%20Value-green?style=for-the-badge&logo=android)
 
-# 👋 안녕하세요, 효율적인 구조로 더 큰 가치를 만드는 개발자, SeoDongIk입니다  
-
----
 
 ## 🌟 About Me
+
 저는 안드로이드 앱 개발에서 비용과 가치를 가장 중요하게 생각합니다.  
 
 비용은 앱을 만들고 유지하는 데 필요한 리소스를 의미하며,  
@@ -33,8 +30,6 @@
 혹시 저에 대해 조금이라도 관심이 생기셨다면,  
 편하게 [이메일](mailto:ikmin7373@naver.com)과 [LinkedIn](https://www.linkedin.com/in/dongik-seo-9ab9bb309/)으로  
 좋은 인연을 쌓아나갔으면 좋겠습니다. 감사합니다.  
-
----
 
 ## 🛠 Tech Stack
 ### Languages  
@@ -66,7 +61,3 @@
 ![Lottie](https://img.shields.io/badge/Lottie-00B3E6?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=malcongmalcom&color=blue&style=flat)
